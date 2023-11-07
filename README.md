@@ -12,3 +12,19 @@ Users are suggested to refer to the research paper for more detials.
 
 This project is still in an early stage of development, and we are improving the implementation and documentation. 
 
+This repo provides the replication package for the paper (Baidu Netdisk: the [links](https://pan.baidu.com/s/1cwpj4-OMM5mOXhOdgWrV1Q ) , and the password：xgwo). It includes the following folders:
+
+* **code**:  the tool IMPER.  
+* **git_repo**: the git repository used in this study. 
+* **neo4j_dataset**: the neo4j dataset contains entity-level software relationship graphs and change information from over 19,003 versions of six well-maintained projects. 
+* **code_entiy_genealogy**: the data for code entity genealogy.
+* **manual_study**: the manual validation data. 
+
+## Environment
+
+- java 11+
+- neo4j 4.2 (https://neo4j.com/download-center/#community)
+- python 3.8+
+- memory 64G+ 
+
+
