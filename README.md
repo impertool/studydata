@@ -46,6 +46,6 @@ Command: `java -jar imper-study.jar -imp -config ./application-dev.yml -rd /home
 - -mi: the code entiy genealogy (method), e.g., `commons-io_functionInfo(Map).txt`
 - -tw: the time window (half)
 - -mc: the max commit size in the time window
-- -od: the output root path (the ealutaion results, MAP, Precison, Recall and F1-score) (e.g., `/home/zdh/code_rec`)
+- -od: the output root path (the evaluation results, MAP, Precison, Recall and F1-score) (e.g., `/home/zdh/code_rec`)
 
 
