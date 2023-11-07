@@ -14,7 +14,6 @@ This repo provides the replication package for the paper (Baidu Netdisk: the [li
 * **git_repo**: the git repository used in this study. 
 * **neo4j_dataset**: the neo4j dataset contains entity-level software relationship graphs and change information (changed classes, changed member methods, changed member variablea and changed files) from over 19,003 versions of six well-maintained projects. 
 * **code_entiy_genealogy**: the data for code entity genealogy.
-* **manual_study**: the manual validation data.
 
 Users are suggested to refer to the research paper for more detials. 
 
