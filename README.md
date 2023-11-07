@@ -1,4 +1,3 @@
-# studydata
 # Replication Package For Paper: Enhancing Change Impact Prediction by Integrating Evolutionary Coupling with Software Change Relationships
 
 **IMPER** is a change <u>**I**</u>mpact <u>**P**</u>rediction method that integrates <u>**E**</u>volutionary coupling with software change <u>**R**</u>elationships. The approach consists of following four main steps:
