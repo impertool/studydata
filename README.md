@@ -23,7 +23,6 @@ This project is still in an early stage of development, and we are improving the
 
 - java 11+
 - neo4j 4.2 (https://neo4j.com/download-center/#community)
-- python 3.8+
 - memory 64G+
 
 ## Quick start
