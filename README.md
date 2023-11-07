@@ -16,7 +16,7 @@ This repo provides the replication package for the paper (Baidu Netdisk: the [li
 
 * **code**:  the tool IMPER.  
 * **git_repo**: the git repository used in this study. 
-* **neo4j_dataset**: the neo4j dataset contains entity-level software relationship graphs and change information from over 19,003 versions of six well-maintained projects. 
+* **neo4j_dataset**: the neo4j dataset contains entity-level software relationship graphs and change information (changed class, changed member method, changed member variable and changed files) from over 19,003 versions of six well-maintained projects. 
 * **code_entiy_genealogy**: the data for code entity genealogy.
 * **manual_study**: the manual validation data. 
 
