@@ -8,7 +8,7 @@
 + **Step 3: Spatial-Temporal Window Processing**. Considering the temporal and spatial change relationships to obtain the impact candidate set.
 + **Step 4: Candidates Integrating and Ranking**. Making a union of these two sets to find the final impact set.
 
-Users are suggested to refer to the research paper for more detials.
+Users are suggested to refer to the research paper for more detials. Please feel free to contact ******(author) for the replication package.
 
 This project is still in an early stage of development, and we are improving the implementation and documentation. 
 
