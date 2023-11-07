@@ -13,4 +13,3 @@ Users are suggested to refer to the research paper for more detials.
 
 This project is still in an early stage of development, and we are improving the implementation and documentation. 
 
-Please feel free to contact Daihong Zhou(dhzhou17 at fudan dot edu dot cn) for the replication package.
