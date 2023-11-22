@@ -7,7 +7,7 @@
 + **Step 3: Spatial-Temporal Window Processing**. Considering the temporal and spatial change relationships to obtain the impact candidate set.
 + **Step 4: Candidates Integrating and Ranking**. Making a union of these two sets to find the final impact set.
 
-This repo provides the replication package for the paper (Baidu Netdisk: the [links](https://pan.baidu.com/s/1cwpj4-OMM5mOXhOdgWrV1Q ) , and the password：xgwo). It includes the following folders:
+This repo provides the replication package for the paper. Due to the huge size of the dataset, it has been uploaded to a cloud storage service for easier access and distribution. (Baidu Netdisk: the [links](https://pan.baidu.com/s/1cwpj4-OMM5mOXhOdgWrV1Q ) , and the password：xgwo). It includes the following folders:
 
 * **code**:  the tool for our study, including: 1) Generating qualified queries; 2) Change prediction query by query with four approach, i.e., ROSE, TARMAQ, IMPER, IMPER-ST; 3) Evaluation. This tool output evaluation results for every query and the average metrics (MAP, Precison, Recall and F1-score).  
 * **git_repo**: the git repository used in this study. 
